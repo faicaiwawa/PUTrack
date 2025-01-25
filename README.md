@@ -125,5 +125,5 @@ Implemented on:
 inspired by :
 - [ViPT](https://github.com/jiawen-zhu/ViPT)
 ## Contact
-Temporarily hidden for the sake of the double-blind rule.
+If you have any question, feel free to email qiuyangzhang2022@163.com. ^_^
 
