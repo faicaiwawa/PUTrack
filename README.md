@@ -122,8 +122,9 @@ Implemented on:
 - [OSTrack](https://github.com/botaoye/OSTrack)
 - [PyTracking](https://github.com/visionml/pytracking)
 
-inspired by :
+referencing:
 - [ViPT](https://github.com/jiawen-zhu/ViPT)
+-
 [DCPT](https://arxiv.org/abs/2309.10491)
 ## Contact
 If you have any question, feel free to email qiuyangzhang2022@163.com. ^_^
