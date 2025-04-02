@@ -113,9 +113,8 @@ We will upload datasets to Google Drive in the future.
 
 ## Some Issues
 There are several points to note:
-1. we find that the number of images generated after framing the video varies from one operating system to another. If you use the utb180 and uot100 raw video datasets, you may find a slight difference with our provided
-utb and uot.
-2. The RawResults.zip we provided has “fish.txt” and “Fish.txt” at the same time. There is no problem to unzip them under linux, but they will overwrite each other when unzipped under windows.
+1. We find that the number of images generated after framing the video varies from one operating system to another. If you use the UTB180 and UOT100 raw video datasets, you may find a slight difference with our provided UTB and UOT.
+2. The RawResults.zip we provided has “fish.txt” and “Fish.txt” at the same time. There is no problem to unzip them under LINUX, but they will overwrite each other when unzipped under WINDOWS.
 ## Acknowledgement
 Implemented on:
 - [ARTrack](https://github.com/MIV-XJTU/ARTrack)
@@ -124,8 +123,7 @@ Implemented on:
 
 referencing:
 - [ViPT](https://github.com/jiawen-zhu/ViPT)
--
-[DCPT](https://arxiv.org/abs/2309.10491)
+- [DCPT](https://arxiv.org/abs/2309.10491)
 ## Contact
 If you have any question, feel free to email qiuyangzhang2022@163.com. ^_^
 
