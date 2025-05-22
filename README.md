@@ -1,6 +1,6 @@
 # PUTrack
 
-The official PyTorch implementation of our PU-ARTrack.
+The official PyTorch implementation of our [PU-ARTrack](https://ieeexplore.ieee.org/document/10892342).
 
 You can find the following in the project:
 
